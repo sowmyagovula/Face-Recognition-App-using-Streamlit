@@ -1,0 +1,4 @@
+Python 3.x
+streamlit
+face_recognition
+opencv-python
